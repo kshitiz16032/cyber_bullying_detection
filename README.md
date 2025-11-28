@@ -21,10 +21,6 @@ You are provided with twitter_parsed_tweets: you have to perform a step-by-step 
 ![image](https://user-images.githubusercontent.com/88608935/230604890-6b479769-fab5-448d-a02b-8015d5416d1b.png)
 
 
-### Published article on Analytics Vidhya:
-
-[Click Here](https://www.analyticsvidhya.com/blog/2023/03/detect-cyberbullying-using-topic-modeling-and-sentiment-analysis/)
-
 ### **Steps taken to solve the problem**
 
 1. Data loading and understanding to identify statistical properties of the dataset
